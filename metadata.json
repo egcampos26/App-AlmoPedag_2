@@ -1,0 +1,7 @@
+{
+  "name": "Copy 2 of Almoxarifado Pedagógico Inteligente",
+  "description": "Uma plataforma moderna para gestão de recursos educacionais, permitindo que professores reservem, retirem e devolvam materiais com facilidade, incluindo visualização detalhada de componentes e histórico de uso.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
