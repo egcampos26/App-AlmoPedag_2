@@ -18,6 +18,8 @@ export interface PedagogicalItem {
   location: string;
   quantity: number; // Total quantity of the item itself
   currentBorrower?: string;
+  defectDescription?: string;
+  defectImages?: string[];
 }
 
 export interface Transaction {
